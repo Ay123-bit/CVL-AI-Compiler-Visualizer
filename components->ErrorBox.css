@@ -1,0 +1,25 @@
+.error-box{
+
+    margin-top:25px;
+    background:#450a0a;
+    border:1px solid #ef4444;
+    padding:20px;
+    border-radius:12px;
+
+}
+
+
+.error-box h2{
+
+    color:#f87171;
+
+}
+
+
+.error-box pre{
+
+    color:#fecaca;
+    white-space:pre-wrap;
+    font-family:"Fira Code",monospace;
+
+}
